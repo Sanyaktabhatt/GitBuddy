@@ -1,4 +1,4 @@
-# GitBuddy CLI (Gemini Edition)
+# GitBuddy CLI
 
 **GitBuddy CLI** is a command-line assistant for Git that helps you manage your repository, make commits, and even explain Git errors in simple terms using **Google Gemini AI**. Think of it as your personal Git tutor, available right in your terminal.
 
